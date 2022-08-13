@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![yeonhkim's 42 stats](https://badge42.vercel.app/api/v2/cl6r9lu9x00250gmi13pb2pim/stats?cursusId=21&coalitionId=85)](https://github.com/JaeSeoKim/badge42)
+
 <!--
 **Yonaim/Yonaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
